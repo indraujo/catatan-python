@@ -1,5 +1,6 @@
-# catatanpython
+## catatanpython
 Catatan pembelajaran Python Dasar (Beginner)
+# Catatan Beginner
 1. Variable dan Tipe Data
 2. Operasi Dasar dan Input
 3. Condition
@@ -20,3 +21,11 @@ Catatan pembelajaran Python Dasar (Beginner)
 18. Try and Except (Python Error Handling)
 19. Global vs Local Variables
 20. Classes and Objects
+
+# Catatan OOP
+1. Intro
+2. Creating Class
+3. Tutorial
+4. Overloading Methods
+5. Static Methods and Class Methods
+6. Private and Public Classes
