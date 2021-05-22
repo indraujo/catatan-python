@@ -1,4 +1,4 @@
-def func(x,text=1):
+def func(x,text=3):
     print(x)
     if text ==1:
         print("Text is 1")

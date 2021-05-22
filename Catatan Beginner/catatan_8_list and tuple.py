@@ -14,5 +14,5 @@ print(type(fruits))
 # Tuple
 position = (2,3)
 color = (225,225,255)
-print(type(color))
+print(color)
 
